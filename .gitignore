@@ -1,0 +1,6 @@
+*.png
+log.html
+output.xml
+report.html
+poetry.lock
+__pycache__
